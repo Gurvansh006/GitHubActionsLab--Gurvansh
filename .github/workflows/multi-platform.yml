@@ -39,5 +39,4 @@ jobs:
           echo "This is macOS job" > macos.txt
           cat macos.txt
 
-
 # test
